@@ -1,13 +1,13 @@
 ## Tiket
  * [ ]  User
-   * [ ]  Get All Ticket
-   * [ ]  Get Ticket by ID
+   * [X]  Get All Ticket
+   * [X]  Get Ticket by ID
    * [ ]  Like Ticket
    * [ ]  Buy Ticket
  * [ ]  Admin
-   * [ ]  Add ticket
-   * [ ]  Get All Ticket
-   * [ ]  Get Ticket by ID
-   * [ ]  Edit ticket
-   * [ ]  Delete Ticket
+   * [X]  Add ticket
+   * [X]  Get All Ticket
+   * [X]  Get Ticket by ID
+   * [X]  Edit ticket
+   * [X]  Delete Ticket
    * [ ]  Confirm Payment
