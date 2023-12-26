@@ -6,7 +6,6 @@
    * [ ]  [POST] Buy Ticket - **Protected**
    * [ ]  [POST] Pots Comment - **Protected**
    * [ ]  [DELETE] Delete Comment - **Protected**
-   * [ ]  [POST] Like - **Protected**
    * [ ]  [POST] Rate - **Protected**
  * [ ]  Admin
    * [X]  [POST] Add ticket - **Protected**
