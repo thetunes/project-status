@@ -23,3 +23,19 @@
 ## Register
  * [X]  User
  * [ ]  Admin
+
+## User Account Dashboard
+ * [ ]  User
+   * [ ]  User profile
+   * [ ]  Purchased items
+
+
+## Admin Dashboard
+ * [ ]  Admin
+   * [ ]  Dashboard
+   * [ ]  Ticket Menu
+      * [ ]  Show tickets
+      * [ ]  Edit ticket
+      * [ ]  Delete Ticket
+   * [ ]  Payments
+      * [ ]  Confirm Payments
