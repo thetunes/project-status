@@ -1,9 +1,8 @@
 ## Tiket
- * [ ]  User
+ * [X]  User
    * [X]  Get All Ticket
-   * [ ]  Get Ticket by ID
-   * [ ]  Like Ticket
-   * [ ]  Buy Ticket
+   * [X]  Get Ticket by ID
+   * [X]  Buy Ticket
  * [ ]  Admin
    * [ ]  Add ticket
    * [ ]  Get All Ticket
@@ -13,14 +12,14 @@
    * [ ]  Confirm Payment
       
 ## Login
- * [ ]  User
+ * [X]  User
    * [X]  Login
    * [X]  Incorrect Creds
-   * [ ]  Register Link
+   * [X]  Register Link
  * [ ]  Admin
    * [ ]  Login
    * [ ]  Incorrect Creds
       
 ## Register
- * [ ]  User
+ * [X]  User
  * [ ]  Admin
