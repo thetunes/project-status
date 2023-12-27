@@ -1,20 +1,15 @@
 ## Tiket
- * [ ]  User
+ * [X]  User
    * [X]  [GET] Get All Ticket
    * [X]  [GET] Get Ticket by ID
-   * [ ]  [POST] Like Ticket - **Protected**
-   * [ ]  [POST] Buy Ticket - **Protected**
-   * [ ]  [POST] Pots Comment - **Protected**
-   * [ ]  [DELETE] Delete Comment - **Protected**
-   * [ ]  [POST] Rate - **Protected**
- * [ ]  Admin
-   * [X]  [POST] Add ticket - **Protected**
-   * [X]  [GET] Get All Ticket
+   * [X]  [POST] Buy Ticket - **Protected**
+ * [X]  Admin
+   * [X]  [POST] Add ticket *
+   * [X]  [GET] Get All Ticket 
    * [X]  [GET] Get Ticket by ID
-   * [X]  [PUT] Edit ticket - **Protected**
-   * [X]  [DELETE] Delete Ticket - **Protected**
-   * [ ]  [POST] Confirm Payment - **Protected**
-
+   * [X]  [PUT] Edit ticket *
+   * [X]  [DELETE] Delete Ticket *
+   * [X]  [POST] Confirm Payment *
 
 ## Notes
-- Implement Protected actions
+- Implement Protected actions for marked items
