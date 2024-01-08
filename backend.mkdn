@@ -2,14 +2,14 @@
  * [X]  User
    * [X]  [GET] Get All Ticket
    * [X]  [GET] Get Ticket by ID
-   * [X]  [POST] Buy Ticket - **Protected**
+   * [X]  [POST] Buy Ticket
  * [X]  Admin
-   * [X]  [POST] Add ticket *
+   * [X]  [POST] Add ticket
    * [X]  [GET] Get All Ticket 
    * [X]  [GET] Get Ticket by ID
-   * [X]  [PUT] Edit ticket *
-   * [X]  [DELETE] Delete Ticket *
-   * [X]  [POST] Confirm Payment *
+   * [X]  [PUT] Edit ticket
+   * [X]  [DELETE] Delete Ticket
+   * [X]  [POST] Confirm Payment
 
 ## Notes
 - Implement Protected actions for marked items
